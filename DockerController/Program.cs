@@ -97,16 +97,6 @@ app.UseHttpsRedirection();
 // Static files
 app.UseStaticFiles();
 
-// Authentication
-app.UseAuthentication();
-app.UseAuthorization();
-
-// Routing
-app.UseRouting();
-
-// API
-app.MapControllers();
-
 // Blazor
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
