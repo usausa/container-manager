@@ -1,10 +1,10 @@
 using Microsoft.Extensions.Hosting.WindowsServices;
 
+using DockerController.Application;
+
 using MudBlazor.Services;
 
 using Serilog;
-
-using DockerController.Application;
 
 #pragma warning disable CA1812
 
