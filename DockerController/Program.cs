@@ -6,7 +6,7 @@ using MudBlazor.Services;
 
 using Serilog;
 
-#pragma warning disable CA1812
+#pragma warning disable CA1852
 
 //--------------------------------------------------------------------------------
 // Configure builder
