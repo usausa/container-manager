@@ -3,6 +3,7 @@
     <File Path=".editorconfig" />
     <File Path=".gitattributes" />
     <File Path=".gitignore" />
+    <File Path="AGENTS.md" />
     <File Path="Analyzers.ruleset" />
     <File Path="DevTool.sln.DotSettings" />
     <File Path="Directory.Build.props" />
