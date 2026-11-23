@@ -1,15 +1,24 @@
 <Solution>
+  <Folder Name="/Aspire/">
+  </Folder>
+  <Folder Name="/Application/">
+  </Folder>
+  <Folder Name="/Test/">
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
     <File Path=".gitattributes" />
     <File Path=".gitignore" />
     <File Path=".globalconfig" />
     <File Path="AGENTS.md" />
-    <File Path="DevTool.sln.DotSettings" />
+    <File Path="CodeCoverage.runsettings" />
+    <File Path="ContainerManager.sln.DotSettings" />
+    <File Path="Database.sql" />
     <File Path="Directory.Build.props" />
     <File Path="Directory.Build.targets" />
     <File Path="LICENSE" />
     <File Path="README.md" />
   </Folder>
-  <Project Path="DockerController/DockerController.csproj" />
+  <Folder Name="/docs/">
+  </Folder>
 </Solution>
